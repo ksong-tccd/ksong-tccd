@@ -11,6 +11,4 @@
 - 😄 Pronouns: he/him/his
 
 - ⚡ Fun fact: Google processes over 5.6 billion search queries every day, and 16-20% of these are queries that have never been searched before. 
-ksong-tccd/ksong-tccd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
